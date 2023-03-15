@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ã‡œÚùÿÿÿÿ8šÇ‰¾í0
+g	java:S112("FDefine and throw a dedicated exception instead of using a generic one.(¨è²øÿÿÿÿ8›Ç‰¾í0
+
+java:S1130("lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨è²øÿÿÿÿ8ÎÇ‰¾í0
+D
+java:S1068"'Remove this unused "LOG" private field.(Ôí¬•8ò—½Åí0

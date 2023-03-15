@@ -1,0 +1,20 @@
+
+i
+java:S1192"LDefine a constant instead of duplicating this literal "domicilioId" 3 times.(°αί8·ΰ›Εν0
+g
+java:S1192"JDefine a constant instead of duplicating this literal "documento" 3 times.(°αί8·ΰ›Εν0
+d
+java:S1192"GDefine a constant instead of duplicating this literal "nombre" 3 times.(°αί8·ΰ›Εν0
+j
+java:S1192"MDefine a constant instead of duplicating this literal "fechaIngreso" 3 times.(°αί8·ΰ›Εν0
+f
+java:S1192"IDefine a constant instead of duplicating this literal "apellido" 3 times.(°αί8·ΰ›Εν0
+f
+java:S1192*"JDefine a constant instead of duplicating this literal "pacientes" 5 times.(¨ –x8Έΰ›Εν0
+m	java:S116"QRename this field "CAMPOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°αί8ψΰ›Εν0
+`
+java:S1117!"CRename "domicilioIDAOH2" which hides the field declared at line 21.(φΘΙ³8ϋΰ›Εν0
+e
+java:S3252+"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(–Ψξα8όΰ›Εν0
+`
+java:S1117^"CRename "domicilioIDAOH2" which hides the field declared at line 21.(φΘΙ³8‚α›Εν0

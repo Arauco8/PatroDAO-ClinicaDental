@@ -1,0 +1,12 @@
+com\clinicadental\dao\impl\PacienteIDAOH2.class
+com\clinicadental\dao\impl\DomicilioIDAOH2.class
+com\clinicadental\Main.class
+com\clinicadental\dao\impl\StatementGenerator.class
+com\clinicadental\dao\impl\ConfigJDBC.class
+com\clinicadental\model\Odontologo.class
+com\clinicadental\dao\impl\OdontologoIDAOH2.class
+com\clinicadental\dao\IDao.class
+com\clinicadental\model\Domicilio.class
+com\clinicadental\model\Paciente.class
+com\clinicadental\service\PacienteService.class
+com\clinicadental\service\OdontologoService.class

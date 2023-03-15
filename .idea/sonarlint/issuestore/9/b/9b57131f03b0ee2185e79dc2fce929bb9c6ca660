@@ -1,0 +1,15 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "numero" 3 times.(ÄÀàúÿÿÿÿ8­Á“Àí0
+l
+java:S1192"JDefine a constant instead of duplicating this literal "provincia" 3 times.(ÄÀàúÿÿÿÿ8®Á“Àí0
+l
+java:S1192"JDefine a constant instead of duplicating this literal "localidad" 3 times.(ÄÀàúÿÿÿÿ8®Á“Àí0
+h
+java:S1192"FDefine a constant instead of duplicating this literal "calle" 3 times.(ÄÀàúÿÿÿÿ8®Á“Àí0
+h
+java:S1192"KDefine a constant instead of duplicating this literal "domicilios" 5 times.(¤ğ¤î8®Á“Àí0
+r	java:S116"QRename this field "CAMPOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÀàúÿÿÿÿ8ŞÁ“Àí0
+e
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(–Øîá8âÁ“Àí0
+]	java:S125"<This block of commented-out lines of code should be removed.(ÎÑ³Èıÿÿÿÿ8ãÁ“Àí0

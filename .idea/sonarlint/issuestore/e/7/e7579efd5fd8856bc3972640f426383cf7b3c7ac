@@ -1,0 +1,7 @@
+
+k
+java:S1192 "NDefine a constant instead of duplicating this literal " WHERE id = ?" 3 times.(³ªş«8âÓƒÄí0
+ˆ
+java:S1192."fDefine a constant instead of duplicating this literal "id BIGINT AUTO_INCREMENT PRIMARY KEY," 3 times.(Ğœ¶ãúÿÿÿÿ8ãÓƒÄí0
+D
+java:S1068"'Remove this unused "LOG" private field.(İÿµ¬8ïÓƒÄí0

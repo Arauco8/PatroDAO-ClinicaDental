@@ -1,0 +1,12 @@
+
+i
+java:S1192"GDefine a constant instead of duplicating this literal "nombre" 3 times.(œ¤ıÈşÿÿÿÿ8Ÿ¥€Àí0
+n
+java:S1192"LDefine a constant instead of duplicating this literal "odontologos" 5 times.(ç¿şøúÿÿÿÿ8ºåÀí0
+k
+java:S1192"IDefine a constant instead of duplicating this literal "apellido" 3 times.(œ¤ıÈşÿÿÿÿ8Ÿ¥€Àí0
+l
+java:S1192"JDefine a constant instead of duplicating this literal "matricula" 3 times.(œ¤ıÈşÿÿÿÿ8ŠàÂÀí0
+r	java:S116"QRename this field "CAMPOS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ¤ıÈşÿÿÿÿ8ö¥€Àí0
+e
+java:S3252"HUse static access with "java.sql.Statement" for "RETURN_GENERATED_KEYS".(–Øîá8œÈ©Àí0
